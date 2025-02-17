@@ -55,7 +55,7 @@ Este projeto permite que os usuários pesquisem e visualizem as condições clim
 │   └── index.js
 ├── tsconfig.json
 └── README.md
-
+```
 Contribuição
 Sinta-se à vontade para contribuir com o projeto. Para isso, siga os passos abaixo:
 
