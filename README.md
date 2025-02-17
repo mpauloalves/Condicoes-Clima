@@ -74,6 +74,4 @@ Este projeto está licenciado sob a https://LICENSE.
 
 ## 📸 Captura de Tela
 
-![Tela do Projeto](public/screenshot.png)
-
 ![Image](https://github.com/user-attachments/assets/9cbc3927-1193-4de9-b65d-239586c06967)
